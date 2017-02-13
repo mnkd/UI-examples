@@ -9,3 +9,6 @@
 ### [Ref] NSButton styles
 - [A guide to NSButton styles – mackuba.eu](http://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
 - [macOS Human Interface Guidelines: Buttons](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ControlsButtons.html#//apple_ref/doc/uid/20000957-CH48-SW1)
+
+### [Ref] System-Provided Images
+- [macOS Human Interface Guidelines: System-Provided Images](https://developer.apple.com/library/prerelease/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html)
